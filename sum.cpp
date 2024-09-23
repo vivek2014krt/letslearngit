@@ -25,7 +25,7 @@ cout << endl;
 void solve(){
     int a = 5;
     int b = 6;
-    cout<<a+b<<endl;
+    cout<<"The sum is"<<a+b<<endl;
 }
 int main(){
    int t;
